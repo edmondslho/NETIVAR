@@ -29,19 +29,13 @@ Make sure the computer is connected to the right switch/ switch is running SSH P
 # Citation
 Please cite these papers in your publications if it helps your research:
 
-    @inproceedings{cao2017realtime,
-      author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
-      booktitle = {CVPR},
-      title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
-      year = {2017}
+    @inproceedings{flinton2018NetworkTaskAR,
+      author = {Christopher Flinton and Philip Anderson and Hubert P. H. Shum and Edmond S. L. Ho},
+      booktitle = {International Conference on Software, Knowledge, Information Management and Applications (SKIMA)},
+      title = {A User Study of an Augmented Reality Application for Network Tasks},
+      year = {2018}
     }
     
-  @inproceedings{flinton2018NetworkTaskAR,
-    author = {Christopher Flinton and Philip Anderson and Hubert P. H. Shum and Edmond S. L. Ho},
-    booktitle = {International Conference on Software, Knowledge, Information Management and Applications (SKIMA)},
-    title = {A User Study of an Augmented Reality Application for Network Tasks},
-    year = {2018}
-  }
 
 # Authors and Contributors
 NetworkTaskAR is developed by Christopher Flinton (christophfl@hotmail.co.uk) and the proejct is supervised by Edmond Ho (edmond@edho.net). Currently, it is being maintained by Edmond Ho.
