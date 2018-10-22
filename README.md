@@ -2,6 +2,12 @@
 
 An Augmented Reality (AR) application which assists users in performing network tasks
 
+![GitHub Logo](/images/AR_example.jpg)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/AR_example_2.jpg)
+Format: ![Alt Text](url)
+
 Two versions of the application are included, One that works deployed to a smartphone that will connect via Telnet to a Cisco 2960 24 port switch, one that only works in the Unity editor that will connect via both SSH and Telnet to TP Link TL-SG2008 8 port switch
 
 Other switches will work, but they need configuring in the Unity editor. Work on the SSH version was dropped when it was found that the feature does not work with android, the android version is more up to date and feature complete.
