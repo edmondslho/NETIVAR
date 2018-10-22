@@ -11,7 +11,7 @@ The main code for the applications is contained in /Assets/Appmanager.cs
 # Requirements
 In order to run this application, you must have:
 
-*A Cisco 2960 24 port switch running on the same network as the device, with an address matching the one in the object in Unity (Default is 192.168.0.1) Running Telnet*
+* A Cisco 2960 24 port switch running on the same network as the device, with an address matching the one in the object in Unity (Default is 192.168.0.1) Running Telnet
 * All ports must be configured as if it were a fully used switch. (Descriptions etc)
 * An android smart-phone running 7.0 Nougat, with a camera and decent CPU and Unity 2017.4.0f1
 * A printed off version of the user-defined target
