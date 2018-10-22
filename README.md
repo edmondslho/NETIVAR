@@ -8,7 +8,9 @@ Other switches will work, but they need configuring in the Unity editor. Work on
 
 The main code for the applications is contained in /Assets/Appmanager.cs
 
+# Requirements
 In order to run this application, you must have:
+
 *A Cisco 2960 24 port switch running on the same network as the device, with an address matching the one in the object in Unity (Default is 192.168.0.1) Running Telnet
 * All ports must be configured as if it were a fully used switch. (Descriptions etc)
 * An android smart-phone running 7.0 Nougat, with a camera and decent CPU and Unity 2017.4.0f1
@@ -17,13 +19,23 @@ In order to run this application, you must have:
 # Getting started
 
 *If using the smartphone*
+
 Launch the application and login with the appropriate username and password, tap login. A notice will appear warning of the dangers of telnet, click continue and move the camera away from the target Move the camera back to the target to display the port information Use the arrow buttons in the top right corner to move between port options, the name of the option will be displayed at the bottom of the application
 
 *If using Unity player (must have a webcam, may need to change Vuforia settings in Unity to setup)*
+
 Make sure the computer is connected to the right switch/ switch is running SSH Press the play button in unity Hold the target in the webcam's view Port information will be displayed Use the arrow buttons in the top right corner to move between port options, the name of the option will be displayed at the bottom of the application
 
 # Citation
 Please cite these papers in your publications if it helps your research:
+
+    @inproceedings{cao2017realtime,
+      author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
+      booktitle = {CVPR},
+      title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
+      year = {2017}
+    }
+    
   @inproceedings{flinton2018NetworkTaskAR,
     author = {Christopher Flinton and Philip Anderson and Hubert P. H. Shum and Edmond S. L. Ho},
     booktitle = {International Conference on Software, Knowledge, Information Management and Applications (SKIMA)},
