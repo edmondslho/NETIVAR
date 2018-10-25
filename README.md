@@ -1,4 +1,4 @@
-# NETIVAR
+# NETIVAR: NETwork Information Visualization based on Augmented Reality
 
 An Augmented Reality (AR) application which assists users in performing network tasks
 
