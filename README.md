@@ -1,4 +1,4 @@
-# NetworkTaskAR
+# NETIVAR
 
 An Augmented Reality (AR) application which assists users in performing network tasks
 
@@ -32,7 +32,7 @@ Make sure the computer is connected to the right switch/ switch is running SSH P
 # Citation
 Please cite these papers in your publications if it helps your research:
 
-    @inproceedings{flinton2018NetworkTaskAR,
+    @inproceedings{flinton2018NETIVAR,
       author = {Christopher Flinton and Philip Anderson and Hubert P. H. Shum and Edmond S. L. Ho},
       booktitle = {International Conference on Software, Knowledge, Information Management and Applications (SKIMA)},
       title = {NETIVAR: NETwork Information Visualization based on Augmented Reality},
@@ -41,7 +41,7 @@ Please cite these papers in your publications if it helps your research:
     
 
 # Authors and Contributors
-NetworkTaskAR is developed by Christopher Flinton (christophfl@hotmail.co.uk) and the proejct is supervised by Edmond Ho (edmond@edho.net). Currently, it is being maintained by Edmond Ho.
+NETIVAR is developed by Christopher Flinton (christophfl@hotmail.co.uk) and the proejct is supervised by Edmond Ho (edmond@edho.net). Currently, it is being maintained by Edmond Ho.
 
 # License
-NetworkTaskAR is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the license for further details. Interested in a commercial license? Contact Edmond Ho (edmond@edho.net).
+NETIVAR is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the license for further details. Interested in a commercial license? Contact Edmond Ho (edmond@edho.net).
