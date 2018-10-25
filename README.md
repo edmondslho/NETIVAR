@@ -35,7 +35,7 @@ Please cite these papers in your publications if it helps your research:
     @inproceedings{flinton2018NetworkTaskAR,
       author = {Christopher Flinton and Philip Anderson and Hubert P. H. Shum and Edmond S. L. Ho},
       booktitle = {International Conference on Software, Knowledge, Information Management and Applications (SKIMA)},
-      title = {A User Study of an Augmented Reality Application for Network Tasks},
+      title = {NETIVAR: NETwork Information Visualization based on Augmented Reality},
       year = {2018}
     }
     
